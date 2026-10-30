@@ -4,7 +4,7 @@ langchain-community
 langchain-text-splitters
 faiss-cpu
 pypdf
-sentence-transformers
-transformers
+sentence-transformers==3.4.1
+transformers==4.57.6
 torch
 accelerate
